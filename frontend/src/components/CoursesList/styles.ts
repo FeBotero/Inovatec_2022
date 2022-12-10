@@ -36,19 +36,18 @@ export const Extern = styled.div`
     color: white;
   }
 
-  button{
-    display:flex;
-    align-items:center;
-    font-size:1.4rem;
+  button {
+    display: flex;
+    align-items: center;
+    font-size: 1.4rem;
+    cursor: pointer;
+    background: transparent;
+    color: white;
+    margin-bottom: 1.5rem;
 
-    background:transparent;
-    color:white;
-    margin-bottom:1.5rem;
-
-    img{
-      margin-right:1rem
+    img {
+      margin-right: 1rem;
     }
-    
   }
 `;
 export const Content = styled.div`

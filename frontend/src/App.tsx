@@ -1,11 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-
+import { Routes, Route } from "react-router-dom";
 import { Header } from "./components/Header";
-
-
-
-import { GlobalStyle} from "./styles/global";
 import { Home } from "./components/Home";
 import { About } from "./components/About/About";
 import { Forms } from "./components/Forms";
@@ -18,35 +12,30 @@ import { Room } from "./components/Room";
 import { HomeTutor } from "./components/HomeTutor";
 import { CertificateAluno, CertificateTutor } from "./components/Certificate";
 
-
-
+import "./App.css";
 
 export function App() {
   return (
+    <div className="App">
+      <Header />
 
-    
-    <BrowserRouter>
-      <nav><Header /></nav>
-      <Routes>
-
-        <Route index element={<Home />} />
-        <Route path="/courses" element={<CoursesList />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/newaccount" element={<Forms />} />
-        <Route path="/access" element={<Access />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/student" element={<HomeStudent />} />
-        <Route path="/school" element={<HomeSchool />} />
-        <Route path="/tutor" element={<HomeTutor />} />
-        <Route path="/room" element={<Room />} />
-        <Route path="/certificateAluno" element={<CertificateAluno />} />
-        <Route path="/certificateTutor" element={<CertificateTutor />} />
-        
-      </Routes>
-      <GlobalStyle />
-
-    </BrowserRouter>
-    
+      <div className="content">
+        <Routes>
+          <Route index element={<Home />} />
+          <Route path="/courses" element={<CoursesList />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/newaccount" element={<Forms />} />
+          <Route path="/access" element={<Access />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/student" element={<HomeStudent />} />
+          <Route path="/school" element={<HomeSchool />} />
+          <Route path="/tutor" element={<HomeTutor />} />
+          <Route path="/room" element={<Room />} />
+          <Route path="/certificateAluno" element={<CertificateAluno />} />
+          <Route path="/certificateTutor" element={<CertificateTutor />} />
+        </Routes>
+      </div>
+    </div>
   );
 }
 
