@@ -43,7 +43,7 @@
    
    <h2 id="layout">Layout</h2>
    
-   <img alt="LetmeAsk" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
+   <img alt="Learnbridge" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
 
 
  <h2 id="como_executar">Como executar</h2>
@@ -54,7 +54,7 @@
   <pre> 
        <code>
   <span># Clone o repositório</span>
-      $ git clone https://github.com/ravnosbotero/letmeask.git
+      $ git clone https://github.com/FeBotero/Inovatec_2022.git
 
   <span># Entre no repositório</span>
       $ cd letmeask
@@ -66,3 +66,23 @@
       $ yarn start
       </code>
   </pre>
+
+
+<h2 id="tecnologias">Tecnologias</h2>
+  <ul>
+  <li>React</li>
+  <li>Typescript</li>
+  <li>Styled-components </li>
+  <li>Prisma</li>
+  <li>SQLite</li>
+  </ul>
+   
+<h2 id="autor">Autor</h2>
+
+<p>
+  Projeto feito por <a href="https://github.com/FeBotero">Felipe Botero<a/></p>
+  
+  
+<h2 id="licenca">Licença</h2>
+   
+<h4>Este projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/FeBotero/Inovatec_2022/blob/main/LICENSE.txt">LICENSE</a> para mais detalhes.</h4>
