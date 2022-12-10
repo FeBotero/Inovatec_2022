@@ -22,3 +22,16 @@
 </p>
 
 <img alt="LetmeAsk" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
+
+<h2 id="sobre">Sobre<h2>
+
+<p>Projeto desenvolvido para evento Inovatec para faculdade - interdisciplinar</p>
+<p>Criação de uma plataforma entre Universidades, alunos e escolas. O objetivo é trazer a tecnologia para escolas, onde os academicos serão tutores em escolas, solidificando os conhecimentos adquiridos durante sua formação universitária, trazendo para escolas publicas ou particulares a possibilidade de realizar cursos de extensão para seus alunos. </p>
+
+<h2 id="funcoes">Funcionalidades</h2>
+
+<ul>
+   <li>Cadastro de alunos</li>
+   <li>Cadastro de cursos</li>
+   <li>Cadastro de escolas</li>  
+</ul>
