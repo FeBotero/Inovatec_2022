@@ -34,13 +34,35 @@
    <li>Cadastro de alunos</li>
    <li>Cadastro de cursos</li>
    <li>Cadastro de escolas</li> 
-   <li>Utilização de banco de dados SQLite</li>
-   <li></li>
-   <li></li>
-   <li></li>
+   <li>Material de conteudo para tutores - Em construção</li>
+   <li>Sistema de avaliação de alunos - Em construção</li>
+   <li>Sistema de certificação  - Em construção</li>
+   
 </ul>
    
    
    <h2 id="layout">Layout</h2>
    
    <img alt="LetmeAsk" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
+
+
+ <h2 id="como_executar">Como executar</h2>
+  <p>Execute os comandos no seu terminal:</p>
+  
+  
+ 
+  <pre> 
+       <code>
+  <span># Clone o repositório</span>
+      $ git clone https://github.com/ravnosbotero/letmeask.git
+
+  <span># Entre no repositório</span>
+      $ cd letmeask
+
+ <span> # Instale as dependências</span>
+      $ yarn install
+
+  <span># Execute a aplicação</span>
+      $ yarn start
+      </code>
+  </pre>
