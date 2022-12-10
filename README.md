@@ -21,7 +21,7 @@
  <a href="#licenca">Licença</a>
 </p>
 
-<img alt="LetmeAsk" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
+
 
 <h2 id="sobre">Sobre<h2>
 
@@ -33,5 +33,14 @@
 <ul>
    <li>Cadastro de alunos</li>
    <li>Cadastro de cursos</li>
-   <li>Cadastro de escolas</li>  
+   <li>Cadastro de escolas</li> 
+   <li>Utilização de banco de dados SQLite</li>
+   <li></li>
+   <li></li>
+   <li></li>
 </ul>
+   
+   
+   <h2 id="layout">Layout</h2>
+   
+   <img alt="LetmeAsk" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
