@@ -23,7 +23,7 @@
 
 
 
-<h2 id="sobre">Sobre<h2>
+<h2 id="sobre">Sobre</h2>
 
 <p>Projeto desenvolvido para evento Inovatec para faculdade - interdisciplinar</p>
 <p>Criação de uma plataforma entre Universidades, alunos e escolas. O objetivo é trazer a tecnologia para escolas, onde os academicos serão tutores em escolas, solidificando os conhecimentos adquiridos durante sua formação universitária, trazendo para escolas publicas ou particulares a possibilidade de realizar cursos de extensão para seus alunos. </p>
