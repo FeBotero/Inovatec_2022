@@ -48,47 +48,40 @@
   <h2 id="como_executar">Como executar</h2>
   <p>Execute os comandos no seu terminal:</p>
   
-
-
- ```
-  <p># Clone o repositório</p>
+<p>1 - Clone o repositório</p>
    
-   $ git clone https://github.com/FeBotero/Inovatec_2022.git
+`$ git clone https://github.com/FeBotero/Inovatec_2022.git`
 
+<p>2 - Acesse no repositório localmente</p>
 
- <p># Entre no repositório</p>
+`$ cd Inovatec_2022`
 
-$ cd Inovatec_2022
+###Agora vamos instalar as dependencia do backend e do frontend.
 
+<p>3 - selecione o backend do repositório</p>
 
-  *Agora vamos instalar as dependencia do backend e do frontend.*
-  
-  <p># selecione o backend do repositório</p>
+`$ cd backend`
 
- $ cd backend
+<p>4 - Instale as dependências</p>
 
+`$ npm install`
 
- <p> # Instale as dependências</p>
+<p>5 - selecione o frontend do repositório</p>
 
-$ npm install
-      
-<p># selecione o frontend do repositório</p>
-$ cd frontend
+`$ cd frontend`
 
- <p> # Instale as dependências</p>
+<p>6 - Instale as dependências</p>
 
-$ npm install
+`$ npm install`
 
+<p>7 - Acesse novamente o backend e o backend da aplicação</p>
 
-  <p># Execute o backend da aplicação</p>
+`$ npm start`
 
-$ npm start
+<p>8 - Acesse novamente o frontend e o frontend da aplicação</p>
 
-      
- <p># Execute o frontend da aplicação</p>
+`$ npm start`
 
-$ npm start
-```
 
 <h2 id="tecnologias">Tecnologias</h2>
   <ul>
