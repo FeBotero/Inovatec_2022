@@ -49,7 +49,7 @@
   <p>Execute os comandos no seu terminal:</p>
   
 
- Para clonar o projeto.
+
  
   <p># Clone o repositório</p>
    
@@ -61,7 +61,7 @@
 `$ cd Inovatec_2022`
 
 
-  Agora vamos instalar as dependencia do backend e do frontend.
+  *Agora vamos instalar as dependencia do backend e do frontend.*
   
   <p># selecione o backend do repositório</p>
 
