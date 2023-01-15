@@ -51,21 +51,49 @@
   
   
  
-  <pre> 
-       <code>
-  <span># Clone o repositório</span>
-      $ git clone https://github.com/FeBotero/Inovatec_2022.git
+  <h2 id="como_executar">Como executar</h2>
+  <p>Execute os comandos no seu terminal:</p>
+  
+ <hr>
+ Para clonar o projeto.
+ 
+  <p># Clone o repositório</p>
+   
+   `$ git clone https://github.com/FeBotero/Inovatec_2022.git`
 
-  <span># Entre no repositório</span>
-      $ cd letmeask
 
- <span> # Instale as dependências</span>
-      $ yarn install
+ <p># Entre no repositório</p>
 
-  <span># Execute a aplicação</span>
-      $ yarn start
-      </code>
-  </pre>
+`$ cd Inovatec_2022`
+
+  <hr>
+  Agora vamos instalar as dependencia do backend e do frontend.
+  
+  <p># selecione o backend do repositório</p>
+
+ `$ cd backend`
+
+
+ <p> # Instale as dependências</p>
+
+`$ npm install`
+      
+<p># selecione o frontend do repositório</p>
+`$ cd frontend`
+
+ <p> # Instale as dependências</p>
+
+`$ npm install`
+
+
+  <p># Execute o backend da aplicação</p>
+
+`$ npm start`
+
+      
+ <p># Execute o frontend da aplicação</p>
+
+`$ npm start`
 
 
 <h2 id="tecnologias">Tecnologias</h2>
