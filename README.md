@@ -44,12 +44,6 @@
    <h2 id="layout">Layout</h2>
    
    <img alt="Learnbridge" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
-
-
- <h2 id="como_executar">Como executar</h2>
-  <p>Execute os comandos no seu terminal:</p>
-  
-  
  
   <h2 id="como_executar">Como executar</h2>
   <p>Execute os comandos no seu terminal:</p>
