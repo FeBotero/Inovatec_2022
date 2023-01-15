@@ -46,7 +46,7 @@
    <img alt="Learnbridge" src="https://github.com/FeBotero/Inovatec_2022/blob/main/learnbridge.png">
  
   <h2 id="como_executar">Como executar</h2>
-  <p>Execute os comandos no seu terminal:</p>
+  <h3>Execute os comandos no seu terminal:</h3>
   
 <p>1 - Clone o repositório</p>
    
@@ -56,7 +56,7 @@
 
 `$ cd Inovatec_2022`
 
-###Agora vamos instalar as dependencia do backend e do frontend.
+<h3>Agora vamos instalar as dependencia do backend e do frontend.</h3>
 
 <p>3 - selecione o backend do repositório</p>
 
