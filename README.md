@@ -50,45 +50,45 @@
   
 
 
- 
+ ```
   <p># Clone o repositório</p>
    
-   `$ git clone https://github.com/FeBotero/Inovatec_2022.git`
+   $ git clone https://github.com/FeBotero/Inovatec_2022.git
 
 
  <p># Entre no repositório</p>
 
-`$ cd Inovatec_2022`
+$ cd Inovatec_2022
 
 
   *Agora vamos instalar as dependencia do backend e do frontend.*
   
   <p># selecione o backend do repositório</p>
 
- `$ cd backend`
+ $ cd backend
 
 
  <p> # Instale as dependências</p>
 
-`$ npm install`
+$ npm install
       
 <p># selecione o frontend do repositório</p>
-`$ cd frontend`
+$ cd frontend
 
  <p> # Instale as dependências</p>
 
-`$ npm install`
+$ npm install
 
 
   <p># Execute o backend da aplicação</p>
 
-`$ npm start`
+$ npm start
 
       
  <p># Execute o frontend da aplicação</p>
 
-`$ npm start`
-
+$ npm start
+```
 
 <h2 id="tecnologias">Tecnologias</h2>
   <ul>
