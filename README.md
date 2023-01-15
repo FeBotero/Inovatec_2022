@@ -48,7 +48,7 @@
   <h2 id="como_executar">Como executar</h2>
   <p>Execute os comandos no seu terminal:</p>
   
- <hr>
+
  Para clonar o projeto.
  
   <p># Clone o repositório</p>
@@ -60,7 +60,7 @@
 
 `$ cd Inovatec_2022`
 
-  <hr>
+
   Agora vamos instalar as dependencia do backend e do frontend.
   
   <p># selecione o backend do repositório</p>
