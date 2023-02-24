@@ -15,7 +15,7 @@ export const Extern = styled.div`
     align-items: center;
     margin-inline: auto;
   }
-  h1 {
+  h2 {
     margin-bottom: 2rem;
   }
   li {
@@ -51,10 +51,12 @@ export const Extern = styled.div`
   }
 `;
 export const Content = styled.div`
-  margin-top: 12rem;
+  margin-top: 25rem;
+  height: 15rem;
+  line-height: 2rem;
   color: black;
-  width: 15rem;
-  background: white;
+  width: 22rem;
+  color: white;
   padding: 1rem;
   border-radius: 0.15rem;
 `;

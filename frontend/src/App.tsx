@@ -1,10 +1,10 @@
 import { Routes, Route } from "react-router-dom";
 import { Header } from "./components/Header";
-import { Home } from "./components/Home";
+import { Home } from "./pages/Home";
 import { About } from "./components/About/About";
 import { Forms } from "./components/Forms";
-import { Contact } from "./components/Contact/Contact";
-import { CoursesList } from "./components/CoursesList";
+import { Contact } from "./pages/Contact/Contact";
+import { CoursesList } from "./pages/CoursesList";
 import { Access } from "./components/Access";
 import { HomeStudent } from "./components/HomeStudent";
 import { HomeSchool } from "./components/HomeSchool";
